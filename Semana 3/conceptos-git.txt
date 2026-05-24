@@ -1,0 +1,10 @@
+Repositorio
+ El repositorio es un tipo de almacenamiento digital donde se guarda la informacion y se 
+ trabaja para realizar y adminitrar los cambios en los codigos que se realizan.
+Commit
+El commit es el comando que se utiliza para guardar los cambios realizados en
+ el codigo que se este trabajando.
+Push
+El comando Push sirve para cuando se esta trabajando de manera local con un codigo y se quiere
+ subir a Github se utiliza este comando despues de que se alla ech el git remote add que sirve 
+ para vincular los codigos y los cambios.

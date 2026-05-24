@@ -1,0 +1,8 @@
+El usar Git u otras herramientas por el estilo es importante porque sirve como
+una caja negra que siempre guarda la información. No importa el momento, mientras 
+se guarden los cambios se puede volver a versiones anteriores sin miedo a cometer 
+una falla que dañe todo un proyecto, dando una verdadera seguridad al escribir código. 
+También permite el trabajo en equipo sobreun mismo archivo de manera segura, 
+sin miedo a que se borre algo que otro compañero haya escrito. 
+En conclusión, el registro de cambios de Git no es solo una herramienta, sino algo que genera orden, 
+colaboración y control sobre la evolución de cualquier proyecto de software.

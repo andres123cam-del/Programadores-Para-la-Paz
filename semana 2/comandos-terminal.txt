@@ -1,0 +1,43 @@
+ 1 mkdir semana2
+   2 cd semana2
+   3 new-item preguntas-semana2.txt
+   4 new-item comandos-terminal.txt
+   5 new reflexion-semana2.txt
+   6 new-item reflexion-semana2.txt
+   7 ls
+   8 history
+   9 Add-Content .\preguntas-semana2.txt "Pregunta 1:"
+  10 Add-content .\preguntas-semana2.txt "b"
+  11 Add-content .\preguntas-semana2.txt "Pregunta 2"
+  12 Add-content .\preguntas-semana2.txt " B"
+  13 Add-content .\preguntas-semana2.txt "Pregunta 3"
+  14 Add-content .\preguntas-semana2.txt " C"
+  15 Add-Content .\preguntas-semana2.txt " Pregunta 4"
+  16 Add-Content .\preguntas-semana2.txt " B"
+  17 Add-content .\reflexion-semana2.txt "ara un desarrollador, aprender a dominar la terminal es una habilidad fundamental que define su eficiencia y velocidad en el día a día. Esto nos ayuda a gestionar...
+  18 git init
+  19 git status
+  20 git add .\comandos-terminal.txt
+  21 git add .\preguntas-semana2.txt
+  22 git add .\comandos-terminal.txt
+  23 git status
+  24 git add .\reflexion-semana2.txt
+  25 git status
+  26 git remote Cristian https://github.com/andres123cam-del/trabajo-semana2.git
+  27 git remote add Cristian https://github.com/andres123cam-del/trabajo-semana2.git
+  28 git status
+  29 git commit -m "trabajo terminado"
+  30 git status
+  31 git push cristian
+  32 git remote push cristian
+   1 cd .\semana2\
+   2 git status
+   3 git push .\reflexion-semana2.txt
+   4 git add .\reflexion-semana2.txt
+   5 git status
+   6 history
+   7 git status
+   8 git add .\comandos-terminal.txt
+   9 git commit -m " Terminado.2"
+  10 git push
+  11 git push cristian

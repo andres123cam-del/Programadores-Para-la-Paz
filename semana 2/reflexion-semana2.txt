@@ -1,0 +1,8 @@
+Para un desarrollador, aprender a dominar la terminal es una habilidad fundamental que define su eficiencia y velocidad en el día a día. 
+Esto nos ayuda a gestionar proyectos de manera rápida sin depender del mouse en lo absoluto. 
+Al trabajar con proyectos en HTML, la terminal nos facilita organizar la estructura del sitio web (como las carpetas para imágenes o estilos). 
+Además, está Git, que es lo que más hemos trabajado en el curso, donde organizamos todo el control de versiones con comandos de forma segura y 
+creamos proyectos sin salir del entorno de trabajo. 
+Asimismo, desarrollar esta disciplina desde el inicio del curso nos prepara para adaptarnos a cualquier entorno técnico en el futuro.
+Ya en el entorno laborar nos termina dando una mayor eficiencia a la hora de realizar algún trabajo o gestión de un proyecto. 
+En conclusión, la terminal nos da un control directo y profesional sobre nuestros archivos y herramientas.
