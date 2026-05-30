@@ -1,0 +1,11 @@
+Las  APIs tienen muchas funciones actúan como puentes digitales que estandarizan el intercambio de 
+datos entre diferentes aplicaciones permitiendo que las comunidades centralicen
+ y organicen su información eficientemente. Al establecer reglas claras una API
+ puede recibir reportes ciudadanos desde un celular un sitio web o un bot de chat
+ y unificarlos en una sola base de datos. Esto facilita la clasificación automática 
+de las alertas por categorías como emergencias fallas de infraestructura o monitoreo 
+ambiental y por su ubicación geográfica exacta. Además al dejar la información disponible
+ de forma estructurada otras iniciativas locales pueden consumir esos mismos datos para 
+crear mapas comunitarios en tiempo real o sistemas de notificación masiva. Así las APIs 
+transforman el flujo desordenado de mensajes en un ecosistema coordinado transparente y 
+con capacidad de respuesta rápida ante cualquier situación en el territorio.

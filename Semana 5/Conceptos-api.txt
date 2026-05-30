@@ -1,0 +1,10 @@
+¿Qué hace?
+Crea un punto de acceso en el servidor que recibe datos enviados por un usuario, 
+extrae el contenido del campo mensaje y responde automáticamente con una confirmación 
+en formato JSON para asegurar que la información llegó correctamente.
+
+¿Para qué sirve en una comunidad?
+Permite que los ciudadanos dejen de ser espectadores y participen activamente enviando
+información clave. Sirve para crear canales de reportes de daños en el barrio, 
+un buzón de sugerencias digital, solicitudes de apoyo o emergencias, y el 
+registro de datos locales como iniciativas de monitoreo ambiental o comunitario.
