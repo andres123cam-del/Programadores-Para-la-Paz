@@ -1,0 +1,8 @@
+ Qué información muestra cada comando:
+   - uname -a': Proporciona un desglose completo del sistema operativo y del núcleo de la máquina. Muestra el tipo de sistema, el nombre de red del equipo, la versión y fecha de compilación del kernel, y la arquitectura del hardware (32 o 64 bits).
+   -'whoama: Devuelve el nombre de usuario de la sesión activa en la terminal. Identifica de forma precisa qué cuenta está ejecutando los comandos en ese instante.
+
+2. Por qué es útil en la administración de un servidor:
+- Compatibilidad: Para saber si el software o dependencias que vas a instalar funcionan en ese sistema.
+- Seguridad: Para verificar si el sistema está desactualizado y necesita parches contra vulnerabilidades.
+- Control de permisos: Para asegurar que estás usando el usuario correcto antes de ejecutar tareas críticas o modificar archivos del servidor.

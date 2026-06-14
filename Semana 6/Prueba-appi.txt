@@ -1,6 +1,5 @@
 {
-  "tipo": "Contaminacion del Aire",
-  "descripcion": "Buenas tardes señor@ alcad@ del Municipio de guacari, quiero poner una queja puesto que el olor 
-   a asufre de la empresa Empress agro es insoportable y me esta generando una afectacion a mi vida cotidiana, 
-   quiero saber cuales son las solucines que propone" 
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
 }

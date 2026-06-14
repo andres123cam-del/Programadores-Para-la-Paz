@@ -1,0 +1,8 @@
+La seguridad digital es un pilar indispensable en las plataformas de participación comunitaria, ya que protege
+la integridad de los datos y la privacidad de los usuarios. Cuando las comunidades registran incidencias
+o proponen soluciones, depositan su confianza en el sistema; una brecha de seguridad que exponga datos
+personales podría generar represalias, desconfianza masiva y el abandono de la herramienta. Asimismo,
+garantizar la autenticidad de la información evita la manipulación del sistema mediante reportes falsos
+o ataques automatizados que alteren las prioridades colectivas. En un entorno digital seguro, la ciudadanía
+puede expresarse libremente y colaborar sin temor a riesgos informáticos. De este modo, la ciberseguridad
+no es solo una medida técnica, sino una garantía democrática esencial para la legitimidad del proceso.
