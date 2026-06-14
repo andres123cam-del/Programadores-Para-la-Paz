@@ -1,0 +1,11 @@
+{
+  "tipo": "Problematica vial",
+  "descripcion": "En la calle 5 con carrera 6 hay un hueco bastante grande que podria causar un accidente"
+}
+
+{
+  "tipo": "Arbol Peligroso ",
+  "descripcion": "En la calle 2 con carrera 1 hay un arbol seco donde visiblemente las ramas tienen una gran probabilidad
+  de caerse y generar un accidente "
+}
+

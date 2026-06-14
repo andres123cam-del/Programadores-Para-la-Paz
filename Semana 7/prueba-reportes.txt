@@ -1,0 +1,32 @@
+Cuando envio 
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+Me aparece : 
+[
+    {
+        "id": 1,
+        "tipo": "Infraestructura",
+        "descripcion": "Daño en alumbrado público"
+    }
+]
+
+Despues de meter un reporte distinto aparece
+[
+    {
+        "id": 1,
+        "tipo": "Infraestructura",
+        "descripcion": "Daño en alumbrado público"
+    },
+    {
+        "id": 2,
+        "tipo": "Problematica vial",
+        "descripcion": "En la calle 5 con carrera 6 hay un hueco bastante grande que podria causar un accidente"
+    }
+]
+ {
+        "id": 3,
+        "tipo": "Arbol Peligroso ",
+        "descripcion": "En la calle 2 con carrera 1 hay un arbol seco donde visiblemente las ramas tienen una gran probabilidadde caerse y generar un accidente "
+    }
