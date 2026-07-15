@@ -1,0 +1,10 @@
+Las metodologías ágiles, la automatización y herramientas de mensajería como Telegram
+transforman la participación ciudadana al descentralizar el poder y agilizar la comunicación.
+El enfoque ágil permite que las veedurías locales organicen sus objetivos en tareas pequeñas,
+adaptándose rápidamente a los cambios y priorizando las problemáticas reales de la comunidad.
+Por su parte, la automatización con herramientas como n8n elimina la sobrecarga administrativa,
+permitiendo que las alertas de incidencias se procesen de inmediato y sin demoras de intermediarios.
+Finalmente, Telegram actúa como un puente directo, seguro y masivo que mantiene informada a la
+ciudadanía en tiempo real y fomenta la transparencia colectiva ante los entes de control.
+De este modo, la tecnología estructurada convierte la queja pasiva en un proceso organizado,
+con capacidad de auditoría social y empoderamiento para un impacto real en el territorio.

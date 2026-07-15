@@ -1,0 +1,31 @@
+¿Qué evento activa el flujo?
+
+Trigger (Disparador): La creación de un nuevo registro de incidencia en la base de datos de la plataforma
+ (por ejemplo, mediante un nodo Webhook en n8n que recibe los datos inmediatamente después de que el ciudadano 
+envía el formulario, o un nodo de base de datos como Postgres/Supabase que detecta un nuevo registro).
+
+¿Qué mensaje se enviaría a Telegram?
+
+Un mensaje estructurado que aporta el contexto indispensable de forma rápida:
+
+⚠️ NUEVO REPORTE DE VEEDURÍA ⚠️
+• ID: #1042
+• Categoría: Fallo de Servicios Públicos (Alumbrado)
+• Fecha/Hora: 14/07/2026 - 19:30 COT
+• Estado: Pendiente de revisión
+• Descripción breve: Luminaria de la calle principal apagada desde hace una semana, generando inseguridad.
+
+🔗 Haga clic aquí para revisar y validar en el panel de control
+
+¿Qué información NO debería enviarse por seguridad y privacidad?
+
+Datos de Identificación Personal (PII): Nombres completos, firmas, o números de cédula/documento de
+ identidad del ciudadano denunciante para garantizar el anonimato y evitar represalias.
+
+Datos de contacto: Números de teléfono o correos electrónicos personales.
+
+Credenciales de acceso: Contraseñas, tokens de desarrollo o parámetros de configuración.
+
+Multimedia expuesta: Fotos que contengan rostros claros, patentes de vehículos o datos biométricos que expongan
+ la identidad de personas. Toda evaluación visual detallada se debe realizar de manera controlada ingresando 
+al panel de administración interna con permisos autenticados.

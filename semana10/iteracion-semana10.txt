@@ -1,0 +1,30 @@
+¿Qué 2 tareas del backlog harías primero?
+
+Tarea 1 (Registro): Como ciudadano quiero registrar una incidencia de servicios públicos 
+(con foto y ubicación) para dejar evidencia clara del caso y alertar a la comunidad.
+
+Tarea 2 (Consulta/Visualización): Como miembro del equipo de veeduría quiero consultar y 
+filtrar reportes por estado o zona para hacer seguimiento al avance de las soluciones.
+
+¿Por qué son las más importantes?
+
+Juntas forman el Producto Mínimo Viable (MVP). La primera habilita la entrada de datos
+ (el insumo principal del sistema), mientras que la segunda permite al equipo de veeduría 
+procesar, analizar y visualizar esa información. Sin estas dos funcionalidades esenciales, 
+ninguna automatización de alertas o notificaciones secundarias tendría utilidad.
+
+¿Qué significa que una tarea esté "terminada"?
+
+Significa que la funcionalidad es totalmente estable, segura y está lista para ser desplegada
+ en producción a los usuarios finales, sin dejar deudas técnicas ni pendientes de calidad.
+
+Definición de Terminado (DoD) — Criterios aplicados:
+
+Funciona y cumple con los requisitos: El código cumple con las expectativas de la 
+historia de usuario y no genera errores en pruebas locales.
+
+Fue probada formalmente: Ha pasado por validación técnica y de flujo para asegurar que 
+no rompa otras partes del sistema.
+
+Quedó registrada y fusionada en Git: El código está limpio, con un historial claro y 
+el Pull Request fue aprobado y fusionado en la rama principal (main o master).
