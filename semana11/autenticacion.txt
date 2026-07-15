@@ -1,0 +1,6 @@
+El login en una aplicación identifica y verifica la identidad de un usuario antes de concederle acceso.
+Esto permite validar quién está interactuando con la plataforma y asignar los permisos correctos.
+Algunas rutas del sistema deben estar protegidas para evitar accesos no autorizados a paneles de control.
+Si no se protegieran, cualquier persona podría manipular los reportes comunitarios o alterar datos de manera maliciosa.
+Finalmente, información confidencial como contraseñas encriptadas, números telefónicos, direcciones y
+documentos de identidad nunca debe exponerse públicamente para proteger la privacidad de los ciudadanos.

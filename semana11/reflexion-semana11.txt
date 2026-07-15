@@ -1,0 +1,8 @@
+Una plataforma de participación ciudadana requiere una base de datos para centralizar, ordenar y auditar
+las problemáticas locales, permitiendo tomar decisiones basadas en datos reales y estructurados.
+Por su parte, la autenticación de usuarios es indispensable para garantizar la legitimidad del proceso,
+evitando que votos duplicados o bots saboteen la priorización democrática de las causas comunitarias.
+La protección de la información sensible y el resguardo de rutas privadas garantizan la seguridad de
+los denunciantes, quienes podrían sufrir represalias de terceros si sus identidades fuesen expuestas.
+La transparencia de los procesos sociales no debe estar en conflicto directo con la confidencialidad técnica,
+pues una comunidad solo confiará en una herramienta digital que proteja activamente su privacidad y datos.

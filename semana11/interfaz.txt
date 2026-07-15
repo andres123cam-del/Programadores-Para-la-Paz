@@ -1,0 +1,21 @@
+1. Formulario para crear una causa:
+   Sección destacada donde el usuario registrado puede rellenar campos simples: un campo de texto para 
+el "Título de la Causa", un área de texto más amplia para la "Descripción" detallada de la problemática,
+ un selector de categoría y un botón de envío rotulado "Publicar Causa".
+
+2. Vista de causas disponibles:
+   Un muro central o listado organizado en tarjetas (cards). Cada tarjeta mostrará el título de la causa, 
+   su descripción abreviada, la fecha en que fue propuesta y la categoría correspondiente, ordenadas cronológicamente
+ o por relevancia.
+
+3. Botón para apoyar una causa:
+   Dentro de cada tarjeta de causa, habrá un botón visible con un icono (como un pulgar arriba o un corazón) 
+   etiquetado como "Apoyar Causa", el cual solo se habilitará para usuarios autenticados para evitar votos anónimos.
+
+4. Contador de apoyos:
+   Un indicador numérico ubicado junto al botón de apoyo de cada tarjeta (ej. "🔥 142 apoyos")
+   que se incrementará dinámicamente en tiempo real cada vez que un ciudadano haga clic en el botón.
+
+5. Enfoque de usabilidad y privacidad:
+   La interfaz se diseñará con un estilo visual claro, accesible y limpio, ocultando cualquier dato personal 
+   sensible de los denunciantes para garantizar su seguridad dentro de la comunidad.

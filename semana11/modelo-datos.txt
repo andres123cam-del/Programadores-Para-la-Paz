@@ -1,0 +1,30 @@
+SISTEMA DE VEEDURÍA Y PARTICIPACIÓN COMUNITARIA
+===============================================
+MODELO DE DATOS BÁSICO
+
+Entidad: Causa
+
+Campos principales:
+- id: Identificador único autoincremental o UUID (Llave primaria).
+- titulo: Nombre corto y descriptivo de la iniciativa o problemática comunitaria.
+- descripcion: Detalle completo de la causa, metas, o necesidades de la comunidad.
+- categoria: Clasificación de la causa (ej. Medio ambiente, Infraestructura, Alumbrado).
+- fecha_creacion: Fecha y hora exacta de registro en la plataforma.
+- usuario_creador_id: Identificador del usuario que inició la causa.
+
+Propósito:
+Almacenar de forma estructurada todas las iniciativas, denuncias o causas comunitarias propuestas por 
+los ciudadanos para que puedan ser visualizadas, filtradas y apoyadas en la plataforma pública.
+
+Entidad: Apoyo
+
+Campos principales:
+- id: Identificador único del registro de apoyo (Llave primaria).
+- causa_id: Relación o llave foránea que conecta directamente con el ID de la Causa apoyada.
+- usuario_id: Identificador único del ciudadano autenticado que realiza el voto o apoyo.
+- fecha_apoyo: Marca de tiempo de cuándo se registró la acción.
+
+Propósito:
+Registrar de manera única y transparente cada firma, voto o muestra de apoyo que recibe una causa 
+específica por parte de los miembros autenticados, evitando duplicados y sirviendo como métrica de
+ priorización comunitaria.
