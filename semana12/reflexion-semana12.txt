@@ -1,0 +1,9 @@
+Durante este curso, aprendí que la tecnología es un puente poderoso para transformar la acción comunitaria.
+Descubrí que herramientas sencillas y accesibles, como un sistema de "Petición en 3 Clics", pueden empoderar
+a los ciudadanos, permitiéndoles organizar sus necesidades colectivas y canalizarlas de manera formal.
+La implementación de metodologías ágiles nos enseña a estructurar las prioridades reales de los vecinos,
+mientras que el uso de bases de datos y automatizaciones no sensibles simplifica la labor de coordinación.
+Asimismo, comprendí la inmensa responsabilidad que conlleva administrar datos de carácter público, donde la
+privacidad de las personas debe ser el núcleo técnico y ético del diseño para construir confianza real.
+En conclusión, el desarrollo de software adquiere un propósito mayor cuando se enfoca en la veeduría social,
+demostrando que el código es una herramienta capaz de democratizar procesos y promover la justicia local.

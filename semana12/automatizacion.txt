@@ -1,0 +1,30 @@
+Evento que activa la automatización:
+
+El flujo se activa cuando una Causa comunitaria registrada alcanza la meta establecida de apoyos mínimos 
+(por ejemplo, 50 apoyos o firmas digitales) en la base de datos. Esto dispara de manera automática un Webhook hacia n8n.
+
+
+Mensaje que se envía (Vía canal de Telegram o Correo):
+
+"📢 ¡CAUSA EXITOSA ALCANZADA! 📢
+
+La iniciativa comunitaria ha logrado el apoyo requerido para ser radicada.
+
+• Causa ID: #235
+• Título: Reparación de luminarias en el parque principal
+• Total de apoyos alcanzados: 55 firmas registradas
+
+El sistema ha generado de forma automática el documento oficial en formato PDF para su posterior
+ radicación y seguimiento administrativo. 
+
+🔗 [Ver detalles de la petición en la plataforma](https://peticion3clics.org/causas/235)"
+
+
+Información que NO debe enviarse por seguridad:
+-----------------------------------------------
+Para proteger rigurosamente la privacidad y seguridad de la comunidad, bajo ninguna circunstancia se debe incluir
+ en los mensajes automáticos:
+- El nombre completo, número de cédula o documento de identidad de los ciudadanos que apoyaron la causa.
+- Direcciones de domicilio exactas de los denunciantes.
+- Números de teléfono o correos electrónicos personales.
+- Comentarios sensibles, quejas de carácter personal o datos que puedan exponer la integridad de los participantes.

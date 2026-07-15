@@ -1,0 +1,25 @@
+Entidad: Causa
+
+Campos principales:
+- id: Identificador único de la causa (Llave primaria).
+- titulo: Título descriptivo de la causa comunitaria.
+- descripcion: Detalle o descripción del problema o iniciativa.
+- fecha: Fecha de registro o creación de la causa en la plataforma.
+
+Propósito:
+Esta entidad sirve para almacenar de forma permanente todas las causas y problemáticas comunitarias
+ propuestas por los ciudadanos, permitiendo que queden registradas de manera estructurada para ser 
+visibles en la plataforma pública[cite: 7].
+
+
+Entidad: Apoyo
+Campos principales:
+- id: Identificador único de cada registro de apoyo (Llave primaria).
+- causa_id: Identificación de la causa que se está apoyando (Llave foránea).
+- nombre: Nombre del usuario o ciudadano que brinda el apoyo.
+- fecha: Fecha exacta en la que se registra el apoyo.
+
+Propósito:
+Esta entidad sirve para registrar individualmente cada muestra de apoyo o firma digital que 
+los ciudadanos otorgan a una causa específica, permitiendo contabilizar el respaldo de la comunidad 
+y realizar un seguimiento transparente de la participación[cite: 7].

@@ -1,0 +1,19 @@
+aso 1: Publicación de la Causa (Clic 1)Un ciudadano autenticado ingresa a la plataforma comunitaria y completa
+un formulario simple con el título, descripción y categoría de la problemática
+de su sector, publicando la causa de inmediato.
+
+Paso 2: Almacenamiento Seguro
+El sistema procesa el formulario y registra de forma permanente los datos de la nueva causa en la
+base de datos estructurada, manteniéndola visible en el muro público pero protegiendo la identidad del creador.  
+
+Paso 3: Apoyo de la Comunidad (Clic 2)
+Otros vecinos de la comunidad ingresan a la plataforma, leen la iniciativa y, al hacer clic en el botón de apoyo, 
+suman su firma digital de forma única y controlada para evitar votos repetidos.  
+
+Paso 4: Conteo y Trazabilidad Dinámica
+La plataforma registra cada muestra de apoyo en la base de datos, incrementa de manera instantánea
+el contador público visible de la causa y genera un registro de auditoría con la fecha y hora de la interacción.
+  
+Paso 5: Generación del Documento Formal (Clic 3)Una vez que la causa alcanza una meta comunitaria de apoyos, el 
+sistema automatizado n8n consolida toda la información recolectada y genera con un solo clic un documento formal 
+en PDF para ser descargado y radicado de forma oficial ante las autoridades correspondientes.
